@@ -6,7 +6,8 @@
     "price": 0,
     "priceCurrency": "Php",
     "lat": 16.6212,
-    "lng": 120.3175
+    "lng": 120.3175,
+    "zoom": 5
   },
   {
     "id": 148,
