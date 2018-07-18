@@ -3,10 +3,10 @@
     "id": 145,
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/jojojojoel/itelect/master/image/1.JPG",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "price": 0,
+    "priceCurrency": "Php",
+    "lat": 16.6212,
+    "lng": 120.3175
   },
   {
     "id": 148,
