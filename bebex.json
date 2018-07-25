@@ -1,14 +1,5 @@
 [
   {
-    "id": 145,
-    "name": "Banaue Rice Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/1a.jpg",
-    "price": 214.2,
-    "priceCurrency": "km",
-    "lat": 16.923954,
-    "lng": 121.055640
-  },
-  {
     "id": 148,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/2a.jpg",
@@ -26,14 +17,14 @@
     "lat": 9.829708,
     "lng": 124.139676
   },
-  {
-    "id": 205,
-    "name": "Puerto Princesa Underground River",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/4a.jpg",
-    "price": 1069.3,
+        {
+    "id": 229,
+    "name": "Caramoan Peninsula",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/12a.jpg",
+    "price": 141.2,
     "priceCurrency": "km",
-    "lat": 10.192559,
-    "lng": 118.926583
+    "lat": 13.795278,
+    "lng": 123.703611
   },
   {
     "id": 210,
@@ -62,6 +53,15 @@
     "lat": 13.254832,
     "lng": 123.686112
   },
+   {
+    "id": 145,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/1a.jpg",
+    "price": 214.2,
+    "priceCurrency": "km",
+    "lat": 16.923954,
+    "lng": 121.055640
+  },
   {
     "id": 220,
     "name": "Bangui Windmills",
@@ -80,15 +80,6 @@
     "lat": 16.414418,
     "lng": 120.613203
   },
-    {
-    "id": 227,
-    "name": "Vigan Heritage Village",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/10a.jpg",
-    "price": 141.2,
-    "priceCurrency": "km",
-    "lat": 17.570127,
-    "lng": 120.388285
-  },
       {
     "id": 228,
     "name": "Hundred Island",
@@ -98,19 +89,28 @@
     "lat": 16.204001,
     "lng": 120.040869
   },
-      {
-    "id": 229,
-    "name": "Caramoan Peninsula",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/12a.jpg",
+  {
+    "id": 205,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/4a.jpg",
+    "price": 1069.3,
+    "priceCurrency": "km",
+    "lat": 10.192559,
+    "lng": 118.926583
+  },
+  {
+    "id": 227,
+    "name": "Vigan Heritage Village",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/10a.jpg",
     "price": 141.2,
     "priceCurrency": "km",
-    "lat": 13.795278,
-    "lng": 123.703611
+    "lat": 17.570127,
+    "lng": 120.388285
   },
     {
     "id": 233,
     "name": "Bahay Namin",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place7.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/bex.jpg",
     "price": 0,
     "priceCurrency": "km",
     "lat": 16.594004,
