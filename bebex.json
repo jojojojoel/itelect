@@ -1,65 +1,119 @@
 [
   {
     "id": 145,
-    "name": "Halo Halo de Iloko",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
-    "priceCurrency": "PHP",
-    "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/1a.jpg",
+    "price": 214.2,
+    "priceCurrency": "km",
+    "lat": 16.923954,
+    "lng": 121.055640
   },
   {
     "id": 148,
-    "name": "Pugad Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
-    "priceCurrency": "PHP",
-    "price": 200,
-    "lat": 16.2833,
-    "lng": 120.4833
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/2a.jpg",
+    "price": 707.7,
+    "priceCurrency": "km",
+    "lat": 11.967375,
+    "lng": 121.924815
   },
   {
     "id": 201,
-    "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
-    "priceCurrency": "PHP",
-    "price": 50,
-    "lat": 16.8472,
-    "lng": 120.3517
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/3a.jpg",
+    "price": 1191.0,
+    "priceCurrency": "km",
+    "lat": 9.829708,
+    "lng": 124.139676
   },
   {
     "id": 205,
-    "name": "Marand Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
-    "priceCurrency": "PHP",
-    "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/4a.jpg",
+    "price": 1069.3,
+    "priceCurrency": "km",
+    "lat": 10.192559,
+    "lng": 118.926583
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
-    "priceCurrency": "PHP",
-    "price": 150,
-    "lat": 16.3188,
-    "lng": 120.4687
+    "name": "Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/5a.jpg",
+    "price": 404.9,
+    "priceCurrency": "km",
+    "lat": 13.501891,
+    "lng": 120.954120
   },
   {
     "id": 211,
-    "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
-    "priceCurrency": "PHP",
-    "price": 200,
-    "lat": 16.6583,
-    "lng": 120.3216
+    "name": "Malapascua Island",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/6a.jpg",
+    "price": 712,
+    "priceCurrency": "km",
+    "lat": 11.335846,
+    "lng": 124.115636
   },
     {
-    "id": 211,
-    "name": "House",
-    "imageUrl": "https://raw.githubusercontent.com/jojojojoel/itelect/master/image/bex.jpg",
-    "priceCurrency": "PHP",
+    "id": 215,
+    "name": "Mayon Volcano",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/7a.jpg",
+    "price": 757.3,
+    "priceCurrency": "km",
+    "lat": 13.254832,
+    "lng": 123.686112
+  },
+  {
+    "id": 220,
+    "name": "Bangui Windmills",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/8a.jpg",
+    "price": 279.7,
+    "priceCurrency": "km",
+    "lat": 18.528571,
+    "lng": 120.718110
+  },
+  {
+    "id": 224,
+    "name": "Baguio's Botanical Garden",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/9a.jpg",
+    "price": 56.0,
+    "priceCurrency": "km",
+    "lat": 16.414418,
+    "lng": 120.613203
+  },
+    {
+    "id": 227,
+    "name": "Vigan Heritage Village",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/10a.jpg",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 17.570127,
+    "lng": 120.388285
+  },
+      {
+    "id": 228,
+    "name": "Hundred Island",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/11a.jpg",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 16.204001,
+    "lng": 120.040869
+  },
+      {
+    "id": 229,
+    "name": "Caramoan Peninsula",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/12a.jpg",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 13.795278,
+    "lng": 123.703611
+  },
+    {
+    "id": 233,
+    "name": "Bahay Namin",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place7.jpg",
     "price": 0,
-    "lat": 16.6167,
-    "lng": 120.3167
+    "priceCurrency": "km",
+    "lat": 16.594004,
+    "lng": 120.334902
   }
 ]
